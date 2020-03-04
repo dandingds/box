@@ -1,3 +1,158 @@
+#EXTINF:-1,TVRI
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1,LIGA SHOPEE
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1,RCTI
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1,RCTI HD
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,MNC
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1,MNC HD
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1,GTV HD
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1,INDOSIAR HD
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1,SCTV HD
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1,TRANS 7 HD
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1,ANTV HD
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+#EXTINF:-1,INEWS
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35/session/b2ef92ee-e21d-11e9-be18-c81f66f89318/qwr9ew/s/s12/02.m3u8
+#EXTINF:-1,RADAR TV TASIKMALAYA
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1,THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1,RAY MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,FIRST MOVIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1,TV 1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,TV 2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1,SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1,ZEE BOLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1,DIL SE
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:-1,MOVIES 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8
+#EXTINF:-1,MBC HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+#EXTINF:-1,MIX HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+#EXTINF:-1,MBC BOLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1,LOTUS
+http://220.158.149.14:9999/live/TV00000000000000000069@HHZT;LIVE
+#EXTINF:-1,CHINA GHOST
+http://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1,ANDY LAU
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1,SAMMO HUNG
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1,WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1,TV Tokyo
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+#EXTINF:-1,DISNEY JUNIOR INDONESIA
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1,KIDS CENTRAL
+http://bit.ly/2XwZ0tZ
+#EXTINF:-1,Rai YOYO
+http://bit.ly/2Evjsy8
+#EXTINF:-1,KIDS 1
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1,EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,NATGEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1,DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1,KARAOKE DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sandpNDlmWa
+#EXTINF:-1,MIX TV
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1,DEEJAY tv
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,MIAMI TV HD
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/chunklist_w203161921_b2592000.m3u8
+#EXTINF:-1,JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,XXX MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,XXX Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1,XXX Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1,XXX Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1,XXX Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,XXX Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,XXX Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1,XXX Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1,XXX POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1,XXX Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1,XXX Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1,XXX Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1,XXX Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1,XXX Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1,XXX Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1,XXX Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1,RedbullTV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,PACUAN KUDA 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1,PPTV HD
+http://183.182.100.184/live/pptvthai/index.m3u8
+#EXTINF:-1,bein sport
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,Match 1
+http://188.35.9.11:2025
+#EXTINF:-1,UFC
+https://1521567559.rsc.cdn77.org/LS-50041-SIN-22/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SABUNG AYAM
+https://1419021143.rsc.cdn77.org/LS-50041-SIN-23/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CTN
+https://1468481365.rsc.cdn77.org/LS-50041-SIN-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MY TV
+https://1737081326.rsc.cdn77.org/LS-50041-SIN-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNC
+https://1468481365.rsc.cdn77.org/LS-50041-SIN-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PAANGANG
+https://m.vidio.com/videos/1515214/vjs_playlist.m3u8
+#EXTINF:-1,KEHILANGAN
+https://m.vidio.com/videos/1796400/vjs_playlist.m3u8
+#EXTINF:-1,HARUSKAH BERAKHIR
+https://m.vidio.com/videos/1790080/vjs_playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M71vka1.png" group-title="INDONESIA",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
